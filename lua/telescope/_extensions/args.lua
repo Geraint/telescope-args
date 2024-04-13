@@ -9,7 +9,7 @@ local run = function(opts)
     finder = finders.new_table {
       results = vim.fn.argv(),
     },
-    sorter = conf.generic_sorter(opts),
+    sorter = conf.file_sorter(opts),
   }):find()
 end
 
