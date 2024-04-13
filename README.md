@@ -1,6 +1,8 @@
 # Telescope args
 
-This is a [telescope](https://github.com/nvim-telescope/telescope.nvim) picker for the argument list.
+This is a very simple [telescope](https://github.com/nvim-telescope/telescope.nvim) picker for the argument list.
+
+A better implementation is [telescope-arglist](https://github.com/sam4llis/telescope-arglist.nvim), which has previews and supports [nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons).
 
 ## Motivation
 
